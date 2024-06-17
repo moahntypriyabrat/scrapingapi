@@ -1,0 +1,7 @@
+django
+djangorestframework
+selenium
+pandas
+gunicorn
+webdriver_manager
+
